@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/baidu.png</file>
+        <file>img/google.png</file>
+        <file>img/local.png</file>
+        <file>search.qss</file>
+        <file>img/down-arrow.png</file>
+    </qresource>
+</RCC>

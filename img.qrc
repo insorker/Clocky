@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/sidebaroption/fix.png</file>
+        <file>img/sidebaroption/search.png</file>
+        <file>img/sidebaroption/setting.png</file>
+        <file>img/sidebaroption/clock.png</file>
+        <file>img/trayicon/Eevee.png</file>
+        <file>img/sidebaroption/minimize.png</file>
+    </qresource>
+</RCC>
